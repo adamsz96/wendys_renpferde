@@ -1,0 +1,16 @@
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\service\IHorseService.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\service\impl\HorseService.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\exceptions\NotFoundException.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\WendysRennpferdeApplication.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\config\Values.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\persistence\util\DBConnectionManager.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\service\exceptions\ServiceException.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\rest\dto\HorseDto.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\config\PreDestroyBean.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\entity\Horse.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\persistence\exceptions\PersistenceException.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\util\mapper\HorseMapper.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\persistence\IHorseDao.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\persistence\impl\HorseDao.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\persistence\util\SchemaAndTestDataGenerator.java
+F:\TUWien\PR_P\sepm-individual-assignment-java-template\src\main\java\at\ac\tuwien\sepm\assignment\individual\rest\HorseEndpoint.java

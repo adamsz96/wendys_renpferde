@@ -1,0 +1,16 @@
+at\ac\tuwien\sepm\assignment\individual\rest\dto\HorseDto.class
+at\ac\tuwien\sepm\assignment\individual\WendysRennpferdeApplication.class
+at\ac\tuwien\sepm\assignment\individual\service\impl\HorseService.class
+at\ac\tuwien\sepm\assignment\individual\exceptions\NotFoundException.class
+at\ac\tuwien\sepm\assignment\individual\service\exceptions\ServiceException.class
+at\ac\tuwien\sepm\assignment\individual\util\mapper\HorseMapper.class
+at\ac\tuwien\sepm\assignment\individual\persistence\util\SchemaAndTestDataGenerator.class
+at\ac\tuwien\sepm\assignment\individual\entity\Horse.class
+at\ac\tuwien\sepm\assignment\individual\persistence\util\DBConnectionManager.class
+at\ac\tuwien\sepm\assignment\individual\config\PreDestroyBean.class
+at\ac\tuwien\sepm\assignment\individual\persistence\IHorseDao.class
+at\ac\tuwien\sepm\assignment\individual\service\IHorseService.class
+at\ac\tuwien\sepm\assignment\individual\config\Values.class
+at\ac\tuwien\sepm\assignment\individual\rest\HorseEndpoint.class
+at\ac\tuwien\sepm\assignment\individual\persistence\impl\HorseDao.class
+at\ac\tuwien\sepm\assignment\individual\persistence\exceptions\PersistenceException.class
